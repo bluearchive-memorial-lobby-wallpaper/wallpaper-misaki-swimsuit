@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-30T05:02:18.923Z",
+  "runtimePath": "D:\\project\\wallpaper-engine\\blue-archive\\wallpaper-misaki-swimsuit\\public\\vendor\\spine-webgl-4.2.js",
+  "source": {
+    "skeleton": "local-assets/original/model/my-character.skel",
+    "atlas": "local-assets/original/model/my-character.atlas",
+    "skeletonBytes": 1171181,
+    "atlasBytes": 13874,
+    "spineVersion": "4.2.33"
+  },
+  "skeleton": {
+    "width": 3875.524658203125,
+    "height": 2981.97705078125,
+    "animations": 44
+  },
+  "animations": [
+    {
+      "name": "Dummy",
+      "duration": 0.03333333507180214,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Eye_Close_01",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Idle_01",
+      "duration": 10.000000953674316,
+      "backgroundEffectTranslateTimelines": 8
+    },
+    {
+      "name": "LookEnd_01_A",
+      "duration": 0.6666666865348816,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "LookEnd_01_M",
+      "duration": 0.6666666865348816,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Look_01_M",
+      "duration": 0,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_A",
+      "duration": 1,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_M",
+      "duration": 1,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_A",
+      "duration": 0.5,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_M",
+      "duration": 0.5,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_02_A",
+      "duration": 0,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_02_M",
+      "duration": 0,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Start_Idle_01",
+      "duration": 22.000001907348633,
+      "backgroundEffectTranslateTimelines": 9
+    },
+    {
+      "name": "Talk_01_A",
+      "duration": 13.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_01_M",
+      "duration": 13.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_02_A",
+      "duration": 18.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_02_M",
+      "duration": 18.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_A",
+      "duration": 14.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_M",
+      "duration": 14.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_04_A",
+      "duration": 9.500000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_04_M",
+      "duration": 9.500000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_05_A",
+      "duration": 18.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_05_M",
+      "duration": 18.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk1/Talk_01_M",
+      "duration": 13.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk1/Talk_02_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk1/Talk_03_M",
+      "duration": 13.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk1/Talk_04_M",
+      "duration": 9.166666984558105,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk1/Talk_05_M",
+      "duration": 17,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk2/aTalk_01_M2",
+      "duration": 13.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk2/Talk_01_M",
+      "duration": 13.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk2/Talk_02_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk2/Talk_03_M",
+      "duration": 14.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk2/Talk_04_M",
+      "duration": 9.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk2/Talk_05_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk3/Talk_01_M",
+      "duration": 13.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk3/Talk_02_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk3/Talk_03_M",
+      "duration": 14.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk3/Talk_04_M",
+      "duration": 9.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk3/Talk_05_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk4/Talk_01_M",
+      "duration": 13.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk4/Talk_02_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk4/Talk_03_M",
+      "duration": 14.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk4/Talk_04_M",
+      "duration": 9.333333969116211,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "talk4/Talk_05_M",
+      "duration": 18,
+      "backgroundEffectTranslateTimelines": 0
+    }
+  ],
+  "violations": [],
+  "ignoredViolations": [],
+  "status": "passed"
+}
